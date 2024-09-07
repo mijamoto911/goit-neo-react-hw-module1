@@ -21,12 +21,12 @@
     "avatar": "https://cdn-icons-png.flaticon.com/512/2977/2977285.png",
     "name": "Jay",
     "isOnline": true,
-    " id": 1714
+    "id": 1714
   },
   {
     "avatar": "https://cdn-icons-png.flaticon.com/512/1998/1998749.png",
     "name": "Poly",
     "isOnline": false,
-    " id": 1284
+    "id": 1284
   }
 ]
